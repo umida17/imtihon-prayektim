@@ -152,6 +152,7 @@ li a{
     background: white;
     
 }
+  /* cardga hover berilyabti  */
 
 .card:hover{
     background: #00A0C1;
@@ -191,6 +192,9 @@ li a{
     padding-left: 40px;
     background: white;
 }
+
+/* cardga hover berildi */
+
 .card1:hover{
     background: #00A0C1;
 }
@@ -436,6 +440,8 @@ li a{
 }
 
 /* 3 bolimga otildi yani rasmli kardlar */
+
+/* 3 bolim boshlandi */
 
 .container{
     width: 1050px;
